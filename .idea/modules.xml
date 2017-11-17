@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" filepath="$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client2/cloud-eureka-client2.iml" filepath="$PROJECT_DIR$/cloud-eureka-client2/cloud-eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-config-server/cloud-eureka-config-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-config-server/cloud-eureka-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-consumer/cloud-eureka-consumer.iml" filepath="$PROJECT_DIR$/cloud-eureka-consumer/cloud-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-consumer-feign/cloud-eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/cloud-eureka-consumer-feign/cloud-eureka-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-consumer-ribbon/cloud-eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/cloud-eureka-consumer-ribbon/cloud-eureka-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-doc.iml" filepath="$PROJECT_DIR$/spring-cloud-doc.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: cloud-eureka-server # 声明当前服务的服务名称
+
+server:
+  port: 8081 # 修改端口号
+
+eureka:
+  instance:
+    hostname: localhost #设置当前服务实例的地址
+  client: # 禁止把当前服务注册到服务注册中心
+    register-with-eureka: false
+    fetch-registry: false
+
+
